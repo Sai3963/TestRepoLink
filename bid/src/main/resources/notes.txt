@@ -1,0 +1,11 @@
+
+JWT Security Configuration
+Redis Configuration
+Swagger Configuration
+SMTP Configuration
+
+Signup
+Login
+Forgot Password
+Change Password
+
